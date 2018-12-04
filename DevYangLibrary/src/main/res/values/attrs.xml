@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NiceSpinner">
+        <attr name="hideArrow" format="boolean" />
+        <attr name="showTv" format="string" />
+        <attr name="showDropDownImage" format="reference|color" />
+        <attr name="showDorpUpImage" format="reference|color" />
+        <attr name="arrowDrawable" format="reference|color"/>
+        <attr name="backgroundSelector" format="integer"/>
+        <attr name="textTint" format="color"/>
+    </declare-styleable>
+</resources>
